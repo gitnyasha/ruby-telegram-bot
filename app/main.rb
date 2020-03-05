@@ -1,6 +1,9 @@
 require "telegram/bot"
 
-token = "1051702702:AAF2AqS4MA6XP0JbGpCsnUXWdSaPgX0sNJM"
+TOKEN = None
+
+with open("../token.txt") as f:
+    TOKEN = f.read().strip()
 
 Telegram::Bot::Client.run(token) do |bot|
   bot.listen do |message|
