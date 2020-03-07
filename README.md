@@ -1,6 +1,6 @@
 # ruby-telegram-bot
 
-A telegram bot working as a an book store
+A telegram bot working as a book store
 
 # By Marshall Chikari
 
