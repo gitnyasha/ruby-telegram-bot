@@ -1,20 +1,12 @@
 # ruby-telegram-bot
 
-A telegram bot working as a personal resume
+A telegram bot working as a an book store
 
 # By Marshall Chikari
 
 ## Introduction
 
-**Tenny_resume_bot** is a telegram bot which can be interacted with to get details about me. If needed you can ask the bot to send a document containing my resume as an image.
-
-## Content
-
-+ Installation.
-+ Running.
-+ Using within telegram.
-+ About the project.
-+ Contact.
+A telegram bot which can provide yoy with a list of programming books you can download from its bookshelf
 
 ## Installation
 
