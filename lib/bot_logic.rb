@@ -1,6 +1,6 @@
 class Languages
   def self.programming
-    @programming = ["/book1 - Ruby", "/book2 - Java", "/book3 - Php"]
+    @programming = %w[/Ruby /Java /Php]
   end
 
   def self.suggest
