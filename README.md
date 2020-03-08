@@ -104,7 +104,7 @@ This starts the bot and it will provide you with books you can download from its
 + Testing was done using RSpec
 
 # Thanks
-+ https://www.sitepoint.com/quickly-create-a-telegram-bot-in-ruby/
++ https://www.rubydoc.info/gems/telegram-bot-ruby/0.3.11
 + Telegram 
 + Odin project for ruby course and testing with rspec
 
