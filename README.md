@@ -6,7 +6,7 @@ A telegram bot working as a book store
 
 ## Introduction
 
-A telegram bot which can provide yoy with a list of programming books you can download from its bookshelf
+A telegram bot which can provide you with a list of programming books to read, you can download from its bookshelf
 
 ## Installation
 
