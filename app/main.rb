@@ -1,5 +1,5 @@
 require "telegram/bot"
-require "./lib/bot_logic.rb"
+require_relative "../lib/bot_logic.rb"
 
 token = "1051702702:AAF2AqS4MA6XP0JbGpCsnUXWdSaPgX0sNJM"
 
