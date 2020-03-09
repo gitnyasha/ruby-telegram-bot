@@ -77,12 +77,12 @@ To see the available directories and files within the one you're currently at.
 
 ## In windows:
 ```
-ruby microbot.rb
+ruby app/main.rb
 ```
 
 ## In a unix terminal:
 ```
-ruby microbot.rb
+ruby app/main.rb
 ```
 
 Please note that if you close the terminal or shut down the system, the bot will stop working.
