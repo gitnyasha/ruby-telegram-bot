@@ -14,7 +14,7 @@ Telegram::Bot::Client.run(token) do |bot|
     when "/Java"
       bot.api.send_document(chat_id: message.chat.id, document: Faraday::UploadIO.new("./lib/java.pdf", "file/pdf"))
     when "/Php"
-      bot.api.send_document(chat_id: message.chat.id, document: Faraday::UploadIO.new("./lib/phptutorial.pdf", "file/pdf"))
+      bot.api.send_document(chat_id: message.chat.id, document: Faraday::UploadIO.new("./lib/php.pdf", "file/pdf"))
     when "/suggest"
       hint = Languages.suggest
       bot.api.send_message(chat_id: message.chat.id, text: "You can start with this one #{hint}")
